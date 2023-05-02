@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD Finance candidate at the Kellogg School of Management at Northwestern University. 
 
-### Research Interests
+## Research Interests
 * Macro-Finance
 * Asset pricing
 
