@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[get the PDF]({{ site.url }}/files/good_cv.pdf)
+[click here](files/good_cv.pdf)
 
 <!-- {% include base_path %}
 
