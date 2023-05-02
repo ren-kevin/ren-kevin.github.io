@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[click here](files/good_cv.pdf)
+[click here](https://ren-kevin.github.io/files/good_cv.pdf)
 
 <!-- {% include base_path %}
 
