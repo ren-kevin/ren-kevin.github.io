@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-[click here](https://ren-kevin.github.io/files/good_cv.pdf){: .btn--_general_button}
+[click here](https://ren-kevin.github.io/files/good_cv.pdf){: .btn--general_button}
+
 <!-- {% include base_path %}
 
 Education
