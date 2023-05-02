@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 [click here](https://ren-kevin.github.io/files/good_cv.pdf){: .btn--general_button}
+[this](#Buttons){: .btn--research}
 
 <!-- {% include base_path %}
 
