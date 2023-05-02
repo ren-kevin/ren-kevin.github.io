@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-**Working Papers**
+## Working Papers
 
-**Publications**
+## Publications
 
 
 <!-- {% if author.googlescholar %}
