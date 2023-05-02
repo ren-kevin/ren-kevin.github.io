@@ -7,6 +7,8 @@ author_profile: true
 
 ## Working Papers
 
+Asset Pricing with Capital-Skill Complementarities
+
 ## Publications
 
 
