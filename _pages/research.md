@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-Asset Pricing with Capital-Skill Complementarities
+Asset Pricing with Capital-Skill Complementarities, May 2023
 
 ## Publications
 
