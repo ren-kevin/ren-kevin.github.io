@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Finance candidate at the Kellogg School of Management at Northwestern University. 
+I am a Ph.D. Finance candidate at the Kellogg School of Management at Northwestern University. 
 
 ### Research Interests
 * Macro-Finance
