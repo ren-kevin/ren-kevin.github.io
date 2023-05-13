@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Ren :)"
+title                    : "Kevin Ren"
 title_separator          : "-"
 name                     : &name "Kevin Ren"
 description              : &description ""
