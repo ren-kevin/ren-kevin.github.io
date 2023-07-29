@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-Asset Pricing with Capital-Skill Complementarities, July 2023 
+Asset Pricing with Capital-Skill Complementarities, August 2023 
 
 From Immediate Acceptance to Deferred Acceptance: Effects on School Admissions and Achievement in
 England, (with Camille Terrier and Parag Pathak), *Revise and Resubmit at American Economic Journal: Applied Economics*, January 2023
