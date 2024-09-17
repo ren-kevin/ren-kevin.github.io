@@ -11,7 +11,7 @@ Asset Pricing with Capital-Skill Complementarities, August 2023
 [pdf](https://ren-kevin.github.io/files/working_papers/second_year_paper/prelim_draft_20230801.pdf){: .btn--generalbutton}
 
 From Immediate Acceptance to Deferred Acceptance: Effects on School Admissions and Achievement in
-England, (with Camille Terrier and Parag Pathak), *Revise and Resubmit at American Economic Journal: Applied Economics*, January 2023
+England, (with Camille Terrier and Parag Pathak), *Revise and Resubmit at American Economic Journal: Applied Economics*, August 2024
 [pdf](https://ren-kevin.github.io/files/working_papers/fpf_ban/DRAFT.pdf){: .btn--generalbutton}
 
 ## Work in Progress
