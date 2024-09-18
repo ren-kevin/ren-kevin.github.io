@@ -153,20 +153,19 @@
 
   /* research page buttons */
   &--generalbutton {
-    display: inline-block;
+    display: inline; /* Makes the button inline to match link style */
     margin-bottom: 0.25em;
-    padding: 0.125em 0.25em;
-    color: $link-color;
-    text-align: center;
-    text-decoration: none !important;
-    border: 1px solid;
-    border-color: $link-color;
-    border-radius: $border-radius;
+    padding: 0; /* Remove padding to align with text-based links */
+    color: #007bff; /* Blue link color */
+    text-align: left; /* Aligns text to the left, like a link */
+    text-decoration: underline; /* Underline the text like a hyperlink */
+    border: none; /* Remove border to resemble a hyperlink */
+    background: none; /* No background for a cleaner, link-like look */
     cursor: pointer;
-
+  
     &:hover {
-      color: #fff;
-      background-color: $link-color !important;
+      text-decoration: underline; /* Keep underline on hover */
+      color: #0056b3; /* Darker blue on hover for emphasis */
     }
   }
 }
