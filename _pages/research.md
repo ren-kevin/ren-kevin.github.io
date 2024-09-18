@@ -19,11 +19,14 @@ England <br>
 
 ## Work in Progress
 
-Product and Labor Market Power, (with Dalton Zhang)
+Product and Labor Market Power <br> 
+(with Dalton Zhang)
 
-Joint Market Power and Growth Risks, (with Dalton Zhang)
+Joint Market Power and Growth Risks <br> 
+(with Dalton Zhang)
 
-Monetary Policy Transmission with Both Product and Labor Market Power, (with Dalton Zhang)
+Monetary Policy Transmission with Both Product and Labor Market Power <br> 
+(with Dalton Zhang)
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
