@@ -1,0 +1,31 @@
+[1mdiff --git a/_config.yml b/_config.yml[m
+[1mindex 1dc605c..89949ce 100644[m
+[1m--- a/_config.yml[m
+[1m+++ b/_config.yml[m
+[36m@@ -7,13 +7,13 @@[m
+ [m
+ # Site Settings[m
+ locale                   : "en-US"[m
+[31m-title                    : "Your Name / Site Title"[m
+[32m+[m[32mtitle                    : "Kevin Ren"[m
+ title_separator          : "-"[m
+[31m-name                     : &name "Your Name"[m
+[32m+[m[32mname                     : &name "Kevin Ren"[m
+ description              : &description "personal description"[m
+[31m-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"[m
+[32m+[m[32murl                      : https://ren-kevin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"[m
+ baseurl                  : "" # the subpath of your site, e.g. "/blog"[m
+[31m-repository               : "academicpages/academicpages.github.io"[m
+[32m+[m[32mrepository               : "ren-kevin/ren-kevin.github.io"[m
+ teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"[m
+ breadcrumbs              : false # true, false (default)[m
+ words_per_minute         : 160[m
+[36m@@ -255,7 +255,7 @@[m [msass:[m
+ permalink: /:categories/:title/[m
+ # paginate: 5 # amount of posts to show[m
+ # paginate_path: /page:num/[m
+[31m-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones[m
+[32m+[m[32mtimezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones[m
+ [m
+ [m
+ # Plugins[m
