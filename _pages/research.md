@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-Asset Pricing with Capital-Skill Complementarities, August 2023 
+Asset Pricing with Capital-Skill Complementarities, October 2023 
 [pdf](https://ren-kevin.github.io/files/working_papers/second_year_paper/prelim_draft_20230801.pdf){: .btn--generalbutton}
 
 From Immediate Acceptance to Deferred Acceptance: Effects on School Admissions and Achievement in
