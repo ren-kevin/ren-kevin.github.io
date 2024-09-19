@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-seo_title: "Kevin Ren"
+title: *name
+seo_title: *name
 author_profile: true
 redirect_from: 
   - /about/
