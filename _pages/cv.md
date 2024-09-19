@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: " "
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+Click below for my CV. <br>
 
 [[click here](https://ren-kevin.github.io/files/cv.pdf){: .btn--generalbutton}]
 
