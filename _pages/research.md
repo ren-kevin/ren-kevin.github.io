@@ -7,26 +7,26 @@ author_profile: true
 
 ## Working Papers
 
-Asset Pricing with Capital-Skill Complementarities <br> 
-October 2023 <br>
+Asset Pricing with Capital-Skill Complementarities
+October 2023 
 [[Paper](https://ren-kevin.github.io/files/working_papers/second_year_paper/prelim_draft_20230801.pdf){: .btn--generalbutton}]
 
 From Immediate Acceptance to Deferred Acceptance: Effects on School Admissions and Achievement in
-England <br> 
-(with Camille Terrier and Parag Pathak) <br>
-*Revise and Resubmit at American Economic Journal: Applied Economics*, August 2024 <br>
+England 
+(with Camille Terrier and Parag Pathak)
+*Revise and Resubmit at American Economic Journal: Applied Economics*, August 2024
 [[Paper](https://ren-kevin.github.io/files/working_papers/fpf_ban/DRAFT.pdf){: .btn--generalbutton}]
 [[NBER Version](https://www.nber.org/papers/w29600){: .btn--generalbutton}]
 
 ## Work in Progress
 
-Product and Labor Market Power <br> 
+Product and Labor Market Power 
 (with Dalton Zhang)
 
-Joint Market Power and Growth Risks <br> 
+Joint Market Power and Growth Risks 
 (with Dalton Zhang)
 
-Monetary Policy Transmission with Both Product and Labor Market Power <br> 
+Monetary Policy Transmission with Both Product and Labor Market Power 
 (with Dalton Zhang)
 
 <!-- {% if author.googlescholar %}

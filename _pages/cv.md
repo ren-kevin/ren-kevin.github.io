@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 Click below for my CV. <br>
-
 [[click here](https://ren-kevin.github.io/files/cv.pdf){: .btn--generalbutton}]
 
 <!-- {% include base_path %}
