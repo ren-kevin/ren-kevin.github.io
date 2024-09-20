@@ -12,8 +12,8 @@ October 2023 <br>
 [[Paper](https://ren-kevin.github.io/files/working_papers/second_year_paper/prelim_draft_20230801.pdf){: .btn--generalbutton  target="_blank"}]
 
 **From Immediate Acceptance to Deferred Acceptance: Effects on School Admissions and Achievement in England** <br>
-with Camille Terrier and Parag Pathak <br>
-*Revise and Resubmit at American Economic Journal: Applied Economics*, August 2024 <br>
+with Camille Terrier and Parag Pathak, August 2024  <br>
+*Revise and Resubmit at American Economic Journal: Applied Economics* <br>
 [[Paper](https://ren-kevin.github.io/files/working_papers/fpf_ban/DRAFT.pdf){: .btn--generalbutton  target="_blank"}]
 [[NBER Version](https://www.nber.org/papers/w29600){: .btn--generalbutton  target="_blank"}]
 
