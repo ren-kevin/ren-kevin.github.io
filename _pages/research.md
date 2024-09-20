@@ -7,11 +7,11 @@ author_profile: true
 
 ## Working Papers
 
-**Asset Pricing with Capital-Skill Complementarities** <br>
+<span style="color:#001f3f; font-weight:bold;"> **Asset Pricing with Capital-Skill Complementarities** </span> <br>
 October 2023 <br>
 [[Paper](https://ren-kevin.github.io/files/working_papers/second_year_paper/prelim_draft_20230801.pdf){: .btn--generalbutton  target="_blank"}]
 
-**From Immediate Acceptance to Deferred Acceptance: Effects on School Admissions and Achievement in England** <br>
+<span style="color:#001f3f; font-weight:bold;"> **From Immediate Acceptance to Deferred Acceptance: Effects on School Admissions and Achievement in England** </span> <br>
 with Camille Terrier and Parag Pathak, August 2024  <br>
 *Conditionally Accepted at American Economic Journal: Applied Economics* <br>
 [[Paper](https://ren-kevin.github.io/files/working_papers/fpf_ban/DRAFT.pdf){: .btn--generalbutton  target="_blank"}]
@@ -19,13 +19,13 @@ with Camille Terrier and Parag Pathak, August 2024  <br>
 
 ## Work in Progress
 
-**Product and Labor Market Power** <br>
+<span style="color:#001f3f; font-weight:bold;"> **Product and Labor Market Power** </span> <br>
 with Dalton Zhang
 
-**Joint Market Power and Growth Risks** <br>
+<span style="color:#001f3f; font-weight:bold;"> **Joint Market Power and Growth Risks** </span> <br>
 with Dalton Zhang
 
-**Monetary Policy Transmission with Both Product and Labor Market Power** <br>
+<span style="color:#001f3f; font-weight:bold;"> **Monetary Policy Transmission with Both Product and Labor Market Power** </span> <br>
 with Dalton Zhang
 
 <!-- {% if author.googlescholar %}
