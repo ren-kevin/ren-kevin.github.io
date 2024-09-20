@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Click below for my CV. <br>
-[[CV](https://ren-kevin.github.io/files/cv.pdf){: .btn--generalbutton}]
+You can find my cv [here](https://ren-kevin.github.io/files/cv.pdf){: .btn--generalbutton}.
 
 <!-- {% include base_path %}
 
