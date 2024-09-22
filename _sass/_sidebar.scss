@@ -74,7 +74,7 @@
   vertical-align: top;
   width: 36px;
   // set width only, for non-square avatars
-  // height: 36px;
+ height: 45px;
 
   @include breakpoint($large) {
     display: block;
@@ -83,8 +83,8 @@
   }
 
   img {
-    max-width: 175px !important;
-    height: 218.75px !important;  // 4:5 ratio for a 175px width (175 * 5 / 4 = 218.75)
+    max-width: 175px;
+    height: 218.75px;  // 4:5 ratio for a 175px width (175 * 5 / 4 = 218.75)
     border-radius: 50%;
 
     @include breakpoint($large) {
