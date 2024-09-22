@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: " "
 seo_title: "Kevin Ren"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Welcome! <br>
 
 I am currently a Ph.D. Finance candidate at the Kellogg School of Management at Northwestern University. My research is broadly within financial economics and macroeconomics with a focus on topics in macro-finance, asset pricing, market power, and innovation.  
 
