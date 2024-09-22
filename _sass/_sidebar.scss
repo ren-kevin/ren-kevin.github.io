@@ -72,8 +72,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  height: 40px;
+  width: auto;
+  height: auto;
   overflow: hidden; /* Prevent overflow of the image */
   position: relative; /* Establish a positioning context */
   // set width only, for non-square avatars
@@ -86,10 +86,10 @@
   }
 
   img {
-    width: 175px;  /* Allow the image to scale */
-    height: 200px; /* Maintain aspect ratio */
-    // max-width: 175px; /* Set a maximum width */
-    // max-height: 225px; /* Optional: set a max height if needed */
+    width: 100%;  /* Scale with the container */
+    height: auto; /* Maintain aspect ratio */
+    max-width: 175px; /* Keep a maximum size */
+    max-height: 200px; /* Optional: keep a maximum height */
     border-radius: 50%;
     object-fit: cover;
 
