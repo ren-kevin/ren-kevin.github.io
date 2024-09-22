@@ -73,7 +73,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  height: 40px;
+  height: auto;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -85,7 +85,7 @@
 
   img {
     max-width: 175px;
-    height: 200px;
+    height: auto;
     border-radius: 50%;
     object-fit: cover;
 
