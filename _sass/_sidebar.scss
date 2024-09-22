@@ -74,6 +74,8 @@
   vertical-align: top;
   width: 36px;
   height: 40px;
+  overflow: hidden; /* Prevent overflow of the image */
+  position: relative; /* Establish a positioning context */
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -84,8 +86,10 @@
   }
 
   img {
-    max-width: 175px;
-    height: 200px;
+    width: 100%;  /* Allow the image to scale */
+    height: auto; /* Maintain aspect ratio */
+    max-width: 175px; /* Set a maximum width */
+    max-height: 200px; /* Optional: set a max height if needed */
     border-radius: 50%;
     object-fit: cover;
 
