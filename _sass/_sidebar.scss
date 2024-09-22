@@ -86,6 +86,7 @@
     max-width: 175px;
     height: 218.75px;  // 4:5 ratio for a 175px width (175 * 5 / 4 = 218.75)
     border-radius: 50%;
+    object-fit: cover;
 
     @include breakpoint($large) {
       padding: 5px;
