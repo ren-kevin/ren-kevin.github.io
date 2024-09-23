@@ -5,12 +5,6 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-
-<style>
-  .page-title {
-    display: none;
-  }
-</style>
 ---
 
 You can find my cv [here](https://ren-kevin.github.io/files/cv.pdf){: .btn--generalbutton  target="_blank"}.
