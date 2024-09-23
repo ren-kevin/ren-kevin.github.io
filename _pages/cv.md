@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: " "
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+<!-- You can add an empty header section here if you want the title to be blank on the page -->
+<h1></h1>
 
 You can find my cv [here](https://ren-kevin.github.io/files/cv.pdf){: .btn--generalbutton  target="_blank"}.
 
