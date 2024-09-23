@@ -27,7 +27,7 @@ with Dalton Zhang
 {% include paper_title.html text="Joint Market Power and Growth Risks" %} <br>
 with Dalton Zhang
 
-{% Monetary Policy Transmission with Both Product and Labor Market Power" %} <br>
+{% include paper_title.html text="Monetary Policy Transmission with Both Product and Labor Market Power" %} <br>
 with Dalton Zhang
 
 <!-- {% if author.googlescholar %}
