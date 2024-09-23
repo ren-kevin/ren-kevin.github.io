@@ -7,7 +7,11 @@ redirect_from:
   - /resume
 ---
 
-<div class="page-header" style="display:none;"></div> 
+<style>
+  .page-title {
+    display: none;
+  }
+</style>
 
 You can find my cv [here](https://ren-kevin.github.io/files/cv.pdf){: .btn--generalbutton  target="_blank"}.
 
