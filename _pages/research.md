@@ -3,6 +3,10 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+
+{% assign paper_title_open = '<span style="color:#4682B4; font-weight:bold !important;">' %}
+{% assign paper_title_close = '</span>' %}
+
 ---
 
 ## Refereed Publications
@@ -15,7 +19,7 @@ with Camille Terrier and Parag Pathak, August 2024  <br>
 
 ## Working Papers
 
-<span style="color:#4682B4; font-weight:bold !important;"> Asset Pricing with Capital-Skill Complementarities </span> <br>
+{{ paper_title_open }} Asset Pricing with Capital-Skill Complementarities {{ paper_title_close }} <br>
 October 2023 <br>
 [[Paper](https://ren-kevin.github.io/files/working_papers/second_year_paper/prelim_draft_20230801.pdf){: .btn--generalbutton  target="_blank"}]
 
