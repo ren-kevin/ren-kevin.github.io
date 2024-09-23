@@ -11,7 +11,7 @@ author_profile: true
 
 ## Refereed Publications
 
-<span style="color:#4682B4; font-weight:bold !important;"> From Immediate Acceptance to Deferred Acceptance: Effects on School Admissions and Achievement in England </span> <br>
+{{ paper_title_open }} From Immediate Acceptance to Deferred Acceptance: Effects on School Admissions and Achievement in England {{ paper_title_close }} <br>
 with Camille Terrier and Parag Pathak, August 2024  <br>
 *Conditionally Accepted at American Economic Journal: Applied Economics* <br>
 [[Paper](https://ren-kevin.github.io/files/working_papers/fpf_ban/DRAFT.pdf){: .btn--generalbutton  target="_blank"}]
@@ -25,13 +25,13 @@ October 2023 <br>
 
 ## Work in Progress
 
-<span style="color:#4682B4; font-weight:bold !important;"> Product and Labor Market Power </span> <br>
+{{ paper_title_open }} Product and Labor Market Power {{ paper_title_close }} <br>
 with Dalton Zhang
 
-<span style="color:#4682B4; font-weight:bold !important;"> Joint Market Power and Growth Risks </span> <br>
+{{ paper_title_open }} Joint Market Power and Growth Risks {{ paper_title_close }} <br>
 with Dalton Zhang
 
-<span style="color:#4682B4; font-weight:bold !important;"> Monetary Policy Transmission with Both Product and Labor Market Power </span> <br>
+{{ paper_title_open }} Monetary Policy Transmission with Both Product and Labor Market Power {{ paper_title_close }} <br>
 with Dalton Zhang
 
 <!-- {% if author.googlescholar %}
