@@ -4,10 +4,10 @@ title: "Research"
 permalink: /research/
 author_profile: true
 
+---
+
 {% assign paper_title_open = '<span style="color:#4682B4; font-weight:bold !important;">' %}
 {% assign paper_title_close = '</span>' %}
-
----
 
 ## Refereed Publications
 
