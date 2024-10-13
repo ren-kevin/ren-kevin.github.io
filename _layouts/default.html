@@ -29,9 +29,6 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <!-- Dark Mode Toggle Button -->
-    <button id="theme-toggle" class="theme-toggle-button">Toggle Dark Mode</button>
-
     {{ content }}
 
     <div class="page__footer">
@@ -42,26 +39,6 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
-    <!-- JavaScript for Dark Mode Toggle -->
-    <script>
-      const toggleButton = document.getElementById('theme-toggle');
-      const currentTheme = localStorage.getItem('theme') || 'light';
-      document.body.classList.add(currentTheme);
-
-      toggleButton.addEventListener('click', () => {
-          const theme = document.body.classList.contains('dark') ? 'light' : 'dark';
-          document.body.classList.replace(currentTheme, theme);
-          localStorage.setItem('theme', theme);
-      });
-
-      window.addEventListener('load', () => {
-        const storedTheme = localStorage.getItem('theme');
-        if (storedTheme) {
-          document.body.classList.add(storedTheme);
-        }
-      });
-    </script>
 
   </body>
 </html>
