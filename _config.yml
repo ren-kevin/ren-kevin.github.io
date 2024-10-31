@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _pages/old/non-menu-page.md
 keep_files:
   - .git
   - .svn
