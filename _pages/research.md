@@ -30,7 +30,7 @@ with Dalton Zhang
 {{ paper_title_open }} The Impact of Market Power and Misallocation on Growth Risks {{ paper_title_close }} <br>
 with Dalton Zhang
 
-{{ paper_title_open }} Monetary Policy Transmission with Both Product and Labor Market Power {{ paper_title_close }} <br>
+{{ paper_title_open }} Monetary Policy Transmission in the Presence of Product and Labor Market Power {{ paper_title_close }} <br>
 with Dalton Zhang
 
 <!-- {% if author.googlescholar %}
