@@ -27,7 +27,7 @@ with Camille Terrier and Parag Pathak  <br>
 {{ paper_title_open }} Product and Labor Market Power {{ paper_title_close }} <br>
 with Dalton Zhang
 
-{{ paper_title_open }} The Role of Market Power and Misallocation for Growth Risks {{ paper_title_close }} <br>
+{{ paper_title_open }} The Impact of Market Power and Misallocation on Growth Risks {{ paper_title_close }} <br>
 with Dalton Zhang
 
 {{ paper_title_open }} Monetary Policy Transmission with Both Product and Labor Market Power {{ paper_title_close }} <br>
