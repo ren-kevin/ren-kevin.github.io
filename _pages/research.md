@@ -24,14 +24,14 @@ with Camille Terrier and Parag Pathak  <br>
 
 ## Work in Progress
 
-{{ paper_title_open }} Product and Labor Market Power {{ paper_title_close }} <br>
+<!-- {{ paper_title_open }} Product and Labor Market Power {{ paper_title_close }} <br>
 with Dalton Zhang
 
 {{ paper_title_open }} The Impact of Market Power and Misallocation on Growth Risks {{ paper_title_close }} <br>
 with Dalton Zhang
 
 {{ paper_title_open }} Monetary Policy Transmission in the Presence of Product and Labor Market Power {{ paper_title_close }} <br>
-with Dalton Zhang
+with Dalton Zhang -->
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
