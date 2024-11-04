@@ -2,12 +2,6 @@
 
 <meta charset="utf-8">
 
-<!-- Automated Title with Prefix from _config.yml -->
-<title>
-  {% if site.title_prefix %}{{ site.title_prefix }}{{ site.title_separator }}{% endif %}
-  {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
-</title>
-
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
