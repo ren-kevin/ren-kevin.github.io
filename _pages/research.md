@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "Kevin Ren | Research"  
-nav_title: "Research" 
+title: "Research"  
 permalink: /research/
 author_profile: true
-
 ---
 
 {% assign paper_title_open = '<span style="color:#4682B4; font-weight:bold !important;">' %}

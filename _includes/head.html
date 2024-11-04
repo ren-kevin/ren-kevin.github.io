@@ -2,8 +2,11 @@
 
 <meta charset="utf-8">
 
-<!-- Custom Title for Each Page -->
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<!-- Automated Title with Prefix from _config.yml -->
+<title>
+  {% if site.title_prefix %}{{ site.title_prefix }}{{ site.title_separator }}{% endif %}
+  {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+</title>
 
 {% include seo.html %}
 
