@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "Research"
+title: "Kevin Ren | Research"  
+nav_title: "Research" 
 permalink: /research/
 author_profile: true
 
