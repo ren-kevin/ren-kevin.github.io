@@ -18,9 +18,9 @@ with Camille Terrier and Parag Pathak  <br>
 
 ## Working Papers
 
-<!--  {{ paper_title_open }} Price Markups or Wage Markdowns? {{ paper_title_close }} <br>
+{{ paper_title_open }} Price Markups or Wage Markdowns? {{ paper_title_close }} <br>
 with Dalton Zhang <br>
-[[Paper](https://ren-kevin.github.io/files/working_papers/markup_markdown_series/rz_markup_or_markdown_draft.pdf){: .btn--generalbutton  target="_blank"}] -->
+[[Paper](https://ren-kevin.github.io/files/working_papers/markup_markdown_series/rz_markup_or_markdown_draft.pdf){: .btn--generalbutton  target="_blank"}]
 
 {{ paper_title_open }} Asset Pricing with Capital-Skill Complementarities {{ paper_title_close }} <br>
 [[Paper](https://ren-kevin.github.io/files/working_papers/second_year_paper/prelim_draft_20230801.pdf){: .btn--generalbutton  target="_blank"}]
