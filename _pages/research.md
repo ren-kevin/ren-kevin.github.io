@@ -11,7 +11,7 @@ author_profile: true
 <!-- ## Job Market Paper
 
 {{ paper_title_open }} Joint Market Power and Macro-Finance Trends {{ paper_title_close }} <br>
-with Dalton Zhang <br>
+with Dalton Rongxuan Zhang <br>
 [[Paper](https://ren-kevin.github.io/files/working_papers/markup_markdown_series/.pdf){: .btn--generalbutton  target="_blank"}] -->
 
 ## Refereed Publications
@@ -25,7 +25,7 @@ with Camille Terrier and Parag Pathak  <br>
 ## <!--Other--> Working Papers
 
 {{ paper_title_open }} Price Markups or Wage Markdowns? {{ paper_title_close }} <br>
-with Dalton Zhang <br>
+with Dalton Rongxuan Zhang <br>
 [[Paper](https://ren-kevin.github.io/files/working_papers/markup_markdown_series/rz_markup_or_markdown_draft.pdf){: .btn--generalbutton  target="_blank"}]
 [[SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143585){: .btn--generalbutton  target="_blank"}]
 
@@ -35,10 +35,10 @@ with Dalton Zhang <br>
 ## Work in Progress
 
 <!-- {{ paper_title_open }} Joint Market Power and Macro-Finance Trends {{ paper_title_close }} <br>
-with Dalton Zhang
+with Dalton Rongxuan Zhang
 
 {{ paper_title_open }} Monetary Policy Transmission in the Presence of Joint Market Power {{ paper_title_close }} <br>
-with Dalton Zhang -->
+with Dalton Rongxuan Zhang -->
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
