@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my cv [here](https://ren-kevin.github.io/files/cv.pdf){: .btn--generalbutton  target="_blank"}.
+[Download CV (PDF)](https://ren-kevin.github.io/files/cv.pdf){: .btn--generalbutton target="_blank"}
 
 <!-- {% include base_path %}
 
