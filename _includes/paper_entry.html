@@ -1,12 +1,13 @@
 <!-- _includes/paper_entry.html -->
 <p>
-  <span style="color:#4682B4; font-weight:bold !important;">{{ include.title }}</span><br>
-  {% if include.coauthors %}with {{ include.coauthors }}<br>{% endif %}
-  {% if include.status %}*{{ include.status }}*<br>{% endif %}
-  {% if include.links %}
-    {% assign paper_links = site.data.links[include.links] %}
-    {% for link in paper_links %}
-      [{{ link.name }}]({{ link.url }}){: .btn--generalbutton target="_blank"}
-    {% endfor %}
-  {% endif %}
-</p>
+    <span style="color:#4682B4; font-weight:bold !important;">{{ include.title }}</span><br>
+    {% if include.coauthors %}with {{ include.coauthors }}<br>{% endif %}
+    {% if include.status %}*{{ include.status }}*<br>{% endif %}
+    {% if include.links %}
+      {% assign paper_links = site.data.links[include.links] %}
+      {% for link in paper_links %}
+        <a href="{{ link.url }}" class="btn--generalbutton" target="_blank">{{ link.name }}</a>
+      {% endfor %}
+    {% endif %}
+  </p>
+  
