@@ -4,10 +4,10 @@
     {% if include.coauthors %}with {{ include.coauthors }}<br>{% endif %}
     {% if include.status %}*{{ include.status }}*<br>{% endif %}
     {% if include.links %}
-      {% assign paper_links = site.data.links[include.links] %}
-      {% for link in paper_links %}
-        <a href="{{ link.url }}" class="btn--generalbutton" target="_blank">{{ link.name }}</a>
-      {% endfor %}
+        {% assign paper_links = site.data.links[include.links] %}
+        {% for link in paper_links %}
+            [<a href="{{ link.url }}" class="btn--generalbutton" target="_blank">{{ link.name }}</a>]
+        {% endfor %}
     {% endif %}
   </p>
   
