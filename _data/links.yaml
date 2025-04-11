@@ -1,0 +1,15 @@
+fpf_ban:
+  - name: "Paper"
+    url: "https://ren-kevin.github.io/files/working_papers/fpf_ban/DRAFT.pdf"
+  - name: "NBER Version"
+    url: "https://www.nber.org/papers/w29600"
+
+markup_markdown:
+  - name: "Paper"
+    url: "https://ren-kevin.github.io/files/working_papers/markup_markdown_series/rz_markup_or_markdown_draft.pdf"
+  - name: "SSRN Version"
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143585"
+
+second_year:
+  - name: "Paper"
+    url: "https://ren-kevin.github.io/files/working_papers/second_year_paper/prelim_draft_2023
