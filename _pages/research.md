@@ -16,6 +16,9 @@ with Dalton Rongxuan Zhang <br>
 
 ## Refereed Publications
 
+<!-- The links are in links.yaml under the _data folder -->
+<!-- The code for the paper_entry function are in paper_entry.html in the _includes folder -->
+
 {% include paper_entry.html
    title="From Immediate Acceptance to Deferred Acceptance: Effects on School Admissions and Achievement in England"
    coauthors="Camille Terrier and Parag Pathak"
