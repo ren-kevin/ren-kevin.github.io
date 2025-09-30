@@ -22,7 +22,7 @@ with Dalton Rongxuan Zhang <br>
 {% include paper_entry.html
    title="From Immediate Acceptance to Deferred Acceptance: Effects on School Admissions and Achievement in England"
    coauthors="Camille Terrier and Parag Pathak"
-   status="Conditionally Accepted at American Economic Journal: Applied Economics"
+   status="Forthcoming at American Economic Journal: Applied Economics"
    links="fpf_ban" %}
 
 ## Working Papers
