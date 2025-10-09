@@ -10,8 +10,6 @@ redirect_from:
 
 Welcome! <br>
 
-<!--I am on the 2025/2026 academic job market.-->
-
 I am a sixth-year Ph.D. Finance candidate at the Kellogg School of Management at Northwestern University. I am on the 2025/2026 academic job market. 
 
 My research is broadly within financial economics and macroeconomics with a focus on topics in macro-finance, asset pricing, and firm dynamics.  
