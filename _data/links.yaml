@@ -1,3 +1,10 @@
+
+kr_jmp:
+  - name: "Paper"
+    url: "https://ren-kevin.github.io/files/working_papers/markup_markdown_series/rz_kr_asset_pricing.pdf"
+  - name: "SSRN Version"
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5583270"
+
 fpf_ban:
   - name: "Paper"
     url: "https://ren-kevin.github.io/files/working_papers/fpf_ban/DRAFT.pdf"

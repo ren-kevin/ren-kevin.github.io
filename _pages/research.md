@@ -8,11 +8,12 @@ author_profile: true
 {% assign paper_title_open = '<span style="color:#4682B4; font-weight:bold !important;">' %}
 {% assign paper_title_close = '</span>' %}
 
-<!-- ## Job Market Paper
+## Job Market Paper
 
-{{ paper_title_open }} Joint Market Power and Macro-Finance Trends {{ paper_title_close }} <br>
-with Dalton Rongxuan Zhang <br>
-[[Paper](https://ren-kevin.github.io/files/working_papers/markup_markdown_series/.pdf){: .btn--generalbutton  target="_blank"}] -->
+{% include paper_entry.html
+   title="Price Markups or Wage Markdowns?"
+   coauthors="Dalton Rongxuan Zhang"
+   links="kr_jmp" %}
 
 ## Refereed Publications
 
