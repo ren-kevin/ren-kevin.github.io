@@ -11,7 +11,7 @@ author_profile: true
 ## Job Market Paper
 
 {% include paper_entry.html
-   title="Price Markups or Wage Markdowns?"
+   title="Market Power, Expectations, and Asset Prices"
    coauthors="Dalton Rongxuan Zhang"
    links="kr_jmp" %}
 
