@@ -39,6 +39,21 @@ author_profile: true
 
 ## Work in Progress
 
+{% include paper_entry.html
+   title="HANK with Joint Market Power"
+   coauthors="Michael Cai and Dalton Rongxuan Zhang"
+   %}
+
+{% include paper_entry.html
+   title="The Welfare Cost of Price Markups and Wage Markdowns"
+   coauthors="Dalton Rongxuan Zhang"
+   %}
+
+{% include paper_entry.html
+   title="Indebted Innovation"
+   coauthors="Aditya Soenarjo"
+   %}
+
 <!-- {{ paper_title_open }} Joint Market Power and Macro-Finance Trends {{ paper_title_close }} <br>
 with Dalton Rongxuan Zhang
 
