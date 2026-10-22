@@ -35,7 +35,8 @@ author_profile: true
    title="Asset Pricing with Capital-Skill Complementarities"
    links="second_year" %}
 
-<!-- ## Work in Progress
+{% comment %}
+## Work in Progress
 
 {% include paper_entry.html
    title="HANK with Joint Market Power"
@@ -50,7 +51,8 @@ author_profile: true
 {% include paper_entry.html
    title="Indebted Innovation"
    coauthors="Aditya Soenarjo"
-   %} -->
+   %}
+{% endcomment %}
 
 <!-- {{ paper_title_open }} Joint Market Power and Macro-Finance Trends {{ paper_title_close }} <br>
 with Dalton Rongxuan Zhang
