@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome! <br>
 
-I am a sixth-year Ph.D. Candidate in Finance at the Kellogg School of Management at Northwestern University. I am on the 2025/2026 academic job market. 
+I am an Associate at Cornerstone Research in New York. I received my Ph.D. in Finance from the Kellogg School of Management at Northwestern University in 2026.
 
-My research is broadly within financial economics and macroeconomics with a focus on topics in macro-finance, asset pricing, and firm dynamics.  
+My research interests are broadly within financial economics and macroeconomics, with a focus on macro-finance, asset pricing, and firm dynamics.  
 
 [Download CV (PDF)](/files/cv.pdf){: .btn--generalbutton target="_blank"}
 

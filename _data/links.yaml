@@ -6,7 +6,9 @@ kr_jmp:
     url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5583290"
 
 fpf_ban:
-  - name: "Paper"
+  - name: "Published Paper"
+    url: "https://ren-kevin.github.io/files/published_papers/fpf_ban_published_version.pdf"
+  - name: "Latest Working Paper Version"
     url: "https://ren-kevin.github.io/files/working_papers/fpf_ban/DRAFT.pdf"
   - name: "NBER Version"
     url: "https://www.nber.org/papers/w29600"
