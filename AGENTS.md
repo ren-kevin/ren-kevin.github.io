@@ -82,6 +82,11 @@ Updating the CV is just replacing `files/cv.pdf`. No other edit needed.
   describing the content change (e.g. `minor cv update`, `jmp revision`).
 - Paper titles are rendered in the steel-blue bold style
   (`#4682B4`) by `paper_entry.html`. Don't inline styles in `research.md`.
+- **Hide paper entries with `{% comment %} ... {% endcomment %}`, never an
+  HTML comment.** Jekyll still executes `{% include %}` tags inside
+  `<!-- -->`, and `paper_entry.html` begins with its own `-->`, which closes
+  the outer comment early and leaks the entries onto the page. The Work in
+  Progress section in `research.md` is hidden this way.
 
 ## Running locally
 
