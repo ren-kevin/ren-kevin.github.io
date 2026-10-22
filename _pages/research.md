@@ -8,13 +8,6 @@ author_profile: true
 {% assign paper_title_open = '<span style="color:#4682B4; font-weight:bold !important;">' %}
 {% assign paper_title_close = '</span>' %}
 
-## Job Market Paper
-
-{% include paper_entry.html
-   title="Market Power, Expectations, and Asset Prices"
-   coauthors="Dalton Rongxuan Zhang"
-   links="kr_jmp" %}
-
 ## Refereed Publications
 
 <!-- The links are in links.yaml under the _data folder -->
@@ -29,6 +22,11 @@ author_profile: true
 ## Working Papers
 
 {% include paper_entry.html
+   title="Market Power, Expectations, and Asset Prices"
+   coauthors="Dalton Rongxuan Zhang"
+   links="kr_jmp" %}
+
+{% include paper_entry.html
    title="Price Markups or Wage Markdowns?"
    coauthors="Dalton Rongxuan Zhang"
    links="markup_markdown" %}
@@ -37,7 +35,7 @@ author_profile: true
    title="Asset Pricing with Capital-Skill Complementarities"
    links="second_year" %}
 
-## Work in Progress
+<!-- ## Work in Progress
 
 {% include paper_entry.html
    title="HANK with Joint Market Power"
@@ -52,7 +50,7 @@ author_profile: true
 {% include paper_entry.html
    title="Indebted Innovation"
    coauthors="Aditya Soenarjo"
-   %}
+   %} -->
 
 <!-- {{ paper_title_open }} Joint Market Power and Macro-Finance Trends {{ paper_title_close }} <br>
 with Dalton Rongxuan Zhang
